@@ -64,6 +64,10 @@ This is a simple image stitching application built using OpenCV and PyQt5. The a
 ![image](https://github.com/user-attachments/assets/38f8b7d2-dd2a-4b2a-b560-59af0d2a24f5)
 
 
+![image](https://github.com/user-attachments/assets/fe65fb4f-6315-4f64-b912-d55c92b41be8)
+
+
+
 
 ## Acknowledgements
 
